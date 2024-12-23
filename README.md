@@ -1,1 +1,1 @@
-# FIRE-TRUCK
+This project solves the problem of finding all possible paths from a starting point to a destination in a given graph. It's a practical demonstration of graph traversal techniques using Python, designed to address real-world scenarios like optimizing firetruck routes.
